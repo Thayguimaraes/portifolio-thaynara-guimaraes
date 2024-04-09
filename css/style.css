@@ -1,0 +1,28 @@
+
+
+.textoNavbar{
+    color: 	#FFFAFA !important;
+}
+
+#cadHome{
+    background-color: #A52A2A !important;
+    border-radius: 15px !important;
+}
+
+.colorBotao{
+background-color: #A52A2A !important;
+color: floralwhite !important;
+
+}
+
+.colorBotao::houver{
+    background-color: floralwhite !important;
+    color: #A52A2A !important;
+    
+    }
+
+    .botaoProjetos{
+        background-color: #FFFAFA !important;
+        color: #A52A2A !important;
+        border-radius: 15px !important;
+    }
