@@ -4,9 +4,22 @@
     color: 	#FFFAFA !important;
 }
 
-#cadHome{
+.textoTitulo{
+    color: 	#A52A2A !important;
+    font-size: 45px !important;
+}
+#cadAbout{
     background-color: #A52A2A !important;
     border-radius: 15px !important;
+}
+
+#cadHome{
+    background: linear-gradient(#A52A2A, #FFFAFA);
+}
+
+.textoSubTitulo{
+    color: 	#A52A2A !important;
+    font-size: 35px !important;
 }
 
 .colorBotao{
@@ -25,4 +38,8 @@ color: floralwhite !important;
         background-color: #FFFAFA !important;
         color: #A52A2A !important;
         border-radius: 15px !important;
+    }
+
+    .bordaProjects{
+        border-color: #A52A2A !important;
     }
